@@ -1,0 +1,19 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "frontend mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaubert-Machado/Front-End-Mentor-QRCode-Component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaubert-Machado/Front-End-Mentor-QRCode-Component/issues"
+  },
+  "homepage": "https://github.com/Jaubert-Machado/Front-End-Mentor-QRCode-Component#readme"
+}
